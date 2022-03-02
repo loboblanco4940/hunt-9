@@ -1,2 +1,2 @@
-# hunt-9
-askdpapkdkspkadspsdoaspkdspaokspkaspkapkads
+# Proyecto-Osos-Emma
+Librerias Preparadas
